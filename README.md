@@ -8,7 +8,6 @@ Below is the complete, professional `README.md` designed for your GitHub reposit
 # Credit Card Default Risk Prediction & Multi-Model Benchmarking Pipeline
 
 ## 👤 Author: Karan Chaudhary
-**Role:** Lead Machine Learning Engineer / Data Scientist
 
 ## 📌 Project Overview
 This repository contains an end-to-end Machine Learning and Deep Learning pipeline designed to predict the probability of credit card defaults using consumer demographic information and monthly transaction history. 
